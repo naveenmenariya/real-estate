@@ -10,7 +10,7 @@ This project is a **Responsive Real Estate Developer Website** developed using *
 ## Deployment:
 The website is hosted on **Netlify** using a personal domain name. You can access and explore the site via the link below:
 
-[Explore the Real Estate Website](https://estatebynaveen.netlify.app/)
+[estatebynaveen.netlify.app](https://estatebynaveen.netlify.app/)
 
 ## Technologies Used:
 - React JS
