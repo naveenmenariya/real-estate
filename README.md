@@ -1,12 +1,20 @@
-# React + Vite
+# Responsive Real Estate Developer Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Responsive Real Estate Developer Website** developed using **React JS** and **Tailwind CSS**. The website is designed to provide a seamless and interactive user experience with smooth animations. It also includes a **working contact form** that allows visitors to send inquiries directly to the admin's email.
 
-Currently, two official plugins are available:
+## Features:
+- **Responsive Design**: The website is fully responsive and works across all screen sizes and devices.
+- **Smooth Animations**: Various animations are implemented to enhance the user experience.
+- **Working Contact Form**: Visitors can submit inquiries, and they are sent directly to the admin's email.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment:
+The website is hosted on **Netlify** using a personal domain name. You can access and explore the site via the link below:
 
-## Expanding the ESLint configuration
+[Explore the Real Estate Website](https://estatebynaveen.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used:
+- React JS
+- Tailwind CSS
+- Netlify (for deployment)
+
+Feel free to explore the project and contribute if you'd like!
