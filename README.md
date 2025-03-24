@@ -16,5 +16,3 @@ The website is hosted on **Netlify** using a personal domain name. You can acces
 - React JS
 - Tailwind CSS
 - Netlify (for deployment)
-
-Feel free to explore the project and contribute if you'd like!
